@@ -1,5 +1,5 @@
 {
-  "name": "hardhat-project",
+  "name": "hardhat-typescript-starter",
   "scripts": {
     "deploy": "npx thirdweb@latest deploy",
     "release": "npx thirdweb@latest release"
